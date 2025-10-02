@@ -1,16 +1,18 @@
-## Hi there 👋
+<p>
+  <hr>
 
-<!--
-**2xpistolkind/2xpistolkind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  *<p align="right">* ![Sign](https://file.garden/aGDXODTF9XysU3WW/kMyR.gif)
+ 
+  *<p align="right">*
+   <a href="https://2xpistolkind.straw.page/">![Strawpage](https://file.garden/aGDXODTF9XysU3WW/kMAe.gif) </a> 
+    ![Skull](https://file.garden/aGDXODTF9XysU3WW/73163f79.png) <a href="https://golgothasterror.atabook.org/">![Atabook](https://picasion.com/gl/92/kMAd.gif) </a> 
 
-Here are some ideas to get you started:
+<hr>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3gcqyhoepg2y33ilve5nvhm4f&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=599e1b">
+   
+  <p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F9400&width=445&lines=No+pain%2C+no+gain." alt="Typing SVG" /></a>
+  
