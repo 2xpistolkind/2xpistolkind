@@ -27,8 +27,9 @@
   
   <p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F9400&width=445&lines=No+pain%2C+no+gain." alt="Typing SVG" /></a> </p>
 
-<p align="left">
-&emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/y23.gif"> &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/x28.gif"> &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/dvdcrazy.gif"> </p>
+
 
 <p align="left">
- <img src="https://file.garden/aGDXODTF9XysU3WW/help.gif">
+ &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/y23.gif"> &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/x28.gif"> &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/dvdcrazy.gif"> </p>
+<hr>
+ <img src="https://file.garden/aGDXODTF9XysU3WW/help.gif" height="400" width="200">
