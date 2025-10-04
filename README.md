@@ -15,7 +15,7 @@
 <p align="left">
   &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/d64.gif"> &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/d64.gif"> &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/d64.gif"> &emsp;
     <img src="https://file.garden/aGDXODTF9XysU3WW/d64.gif"> &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/d64.gif"> &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/d64.gif"> &emsp;
-      <img src="https://file.garden/aGDXODTF9XysU3WW/d64.gif"> &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/d64.gif"> &emsp; </p>
+      <img src="https://file.garden/aGDXODTF9XysU3WW/d64.gif"> &emsp; </p>
 
 
    
