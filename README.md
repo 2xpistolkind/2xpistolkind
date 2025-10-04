@@ -13,22 +13,22 @@
 <hr>
 </p>
 <p align="left">
-  &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/d64.gif"> &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/d64.gif"> &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/d64.gif"> &emsp;
-    <img src="https://file.garden/aGDXODTF9XysU3WW/d64.gif"> &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/d64.gif"> &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/d64.gif"> &emsp;
-      <img src="https://file.garden/aGDXODTF9XysU3WW/d64.gif"> &emsp; </p>
+  &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/d51.jpg"> &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/j13.png"> &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/i18.png"> &emsp;
+    <img src="https://file.garden/aGDXODTF9XysU3WW/d64.gif"> &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/e9.gif"> &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/g11.gif"> &emsp;
+      <img src="https://file.garden/aGDXODTF9XysU3WW/daw7880-0eee2ec4-dc30-468e-82a1-23b112ae9f10.png"> &emsp; </p>
 
    
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3gcqyhoepg2y33ilve5nvhm4f&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=599e1b" align="left">
 
 
-  <img src="https://litter.catbox.moe/gp3s2x9xsl57322b.jpg" align="center" width="500px">
+  <img src="https://file.garden/aGDXODTF9XysU3WW/6272921f7e0926b8362765eb59664679.jpg" align="center" width="500px">
     
   
   <p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F9400&width=445&lines=No+pain%2C+no+gain." alt="Typing SVG" /></a> </p>
 
 <p align="left">
- <img src="https://blinkies.cafe/b/display/archive/0231-treeforest.gif"> &emsp; <img src="https://blinkies.cafe/b/display/archive/0231-treeforest.gif"> &emsp; <img src="https://blinkies.cafe/b/display/archive/0231-treeforest.gif"> </p>
- 
-  
+ <img src="https://file.garden/aGDXODTF9XysU3WW/y23.gif"> &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/x28.gif"> &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/dvdcrazy.gif"> </p>
 
+<p align="left">
+ <img src="https://file.garden/aGDXODTF9XysU3WW/help.gif">
