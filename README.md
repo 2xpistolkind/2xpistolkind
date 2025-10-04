@@ -3,7 +3,7 @@
 <img src="https://file.garden/aGDXODTF9XysU3WW/image.png" align="left" height="149px" width="400px">
 
  
-<p align="right"> <img src="https://file.garden/aGDXODTF9XysU3WW/kMyR.gif" height="300px">
+<p align="right"> <img src="https://file.garden/aGDXODTF9XysU3WW/kMyR.gif" height="280px">
 
 &emsp;<br>
 
