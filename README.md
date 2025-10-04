@@ -22,7 +22,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3gcqyhoepg2y33ilve5nvhm4f&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=599e1b" align="left">
 
 
-  <img src="https://litter.catbox.moe/gp3s2x9xsl57322b.jpg" align="center" height="400px">
+  <img src="https://litter.catbox.moe/gp3s2x9xsl57322b.jpg" align="center" width="500px">
 
     
   
