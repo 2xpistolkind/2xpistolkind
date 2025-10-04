@@ -1,6 +1,6 @@
 <p>
   <hr>
-<img src="https://file.garden/aGDXODTF9XysU3WW/image.png" align="left" height="149px" width="450px">
+<img src="https://file.garden/aGDXODTF9XysU3WW/image.png" align="left" height="149px" width="420px">
 
  
 <p align="right"> <img src="https://file.garden/aGDXODTF9XysU3WW/kMyR.gif" height="300px">
