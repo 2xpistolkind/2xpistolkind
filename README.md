@@ -11,7 +11,9 @@ Jake, he/they, 20.
 
  I choose who i block and curate my online spaces. If i dont like you, i will not engage! 
 
- Proshippers and anything that is deemed immorally egregious please leave me alone, thank you. 
+ Im critical of the media i consume and enjoy. And you should be too.
+
+ Proshippers and anything that is deemed morally egregious please leave me alone, thank you. 
 
  
   <hr>
