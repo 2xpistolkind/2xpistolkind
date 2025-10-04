@@ -1,6 +1,19 @@
 <p>
   <p align="center">
  &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/h.png" height="100" width="1000"> </p>
+
+<p align="Left">
+
+Jake, he/they, 20. 
+
+ I usually hangout wherever i please. I dont have specific spots. But im mostly around the homestuck area of pony town. Or wherever my friends may be. 
+ I am not much of a conversationalist. But fret not! I promise i do not bite as im always open to talk! 
+
+ I choose who i block and curate my online spaces. If i dont like you, i will not engage! 
+
+ Proshippers and anything that is deemed immorally egregious please leave me alone, thank you. 
+
+ 
   <hr>
 <img src="https://file.garden/aGDXODTF9XysU3WW/image.png" align="left" height="149px" width="400px">
 
@@ -28,8 +41,3 @@
     
   
   <p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F9400&width=445&lines=No+pain%2C+no+gain." alt="Typing SVG" /></a> </p>
-
-
-
-<hr>
- <img src="https://file.garden/aGDXODTF9XysU3WW/help.gif" height="100" width="200">
