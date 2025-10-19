@@ -35,7 +35,7 @@ Jake, he/they, 20.
       <img src="https://file.garden/aGDXODTF9XysU3WW/daw7880-0eee2ec4-dc30-468e-82a1-23b112ae9f10.png"> &emsp; </p>
 
     
-<img src="https://lastfm-recently-played.vercel.app/api?user=fireholster&loved=true" align="left"  height="500px" width="300px"> 
+<img src="https://lastfm-recently-played.vercel.app/api?user=fireholster&loved=true" align="left"  height="600px" width="400px"> 
 
   <img src="https://file.garden/aGDXODTF9XysU3WW/6272921f7e0926b8362765eb59664679.jpg" align="center" width="430px">
     
