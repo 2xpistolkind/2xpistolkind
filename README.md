@@ -37,7 +37,7 @@ Jake, he/they, 20.
     
 <img src="https://lastfm-recently-played.vercel.app/api?user=fireholster&loved=true" align="left"  height="600px" width="400px"> 
 
-  <img src="https://file.garden/aGDXODTF9XysU3WW/6272921f7e0926b8362765eb59664679.jpg" align="center" width="430px">
+  <img src="https://file.garden/aGDXODTF9XysU3WW/6272921f7e0926b8362765eb59664679.jpg" align="center" width="400px">
     
   
   <p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F9400&width=445&lines=No+pain%2C+no+gain." alt="Typing SVG" /></a> </p>
