@@ -34,10 +34,8 @@ Jake, he/they, 20.
     <img src="https://file.garden/aGDXODTF9XysU3WW/d64.gif"> &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/e9.gif"> &emsp; <img src="https://file.garden/aGDXODTF9XysU3WW/g11.gif"> &emsp;
       <img src="https://file.garden/aGDXODTF9XysU3WW/daw7880-0eee2ec4-dc30-468e-82a1-23b112ae9f10.png"> &emsp; </p>
 
-   
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3gcqyhoepg2y33ilve5nvhm4f&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=599e1b" align="left">
-
+    
+<img src="https://lastfm-recently-played.vercel.app/api?user=fireholster&loved=true" align="left"  height="500px" width="510px"> 
 
   <img src="https://file.garden/aGDXODTF9XysU3WW/6272921f7e0926b8362765eb59664679.jpg" align="center" width="430px">
     
